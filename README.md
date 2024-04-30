@@ -19,9 +19,35 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<title>
+ordered and unordered list
+</title>
+</head>
+<body>
+<h1>list of animals</h1>
+<ul>
+<li>dog</li>
+<li>cat</li>
+<li>goat</li>
+<li>lion</li>
+</ul>
+<h2>list of birds</h2>
+<ol>
+<li>crow</li>
+<li>parrot</li>
+<li>peacock</li>
+<li>pigeon</li>
+</ol>
+</body>
+</html>
+```
 
 ## OUTPUT
+
+![Screenshot (5)-1](https://github.com/mrmdsuhail/Ex02_Web-Design/assets/165985737/1e1ae2c4-5dda-4f81-a615-051522fa3dcc)
 
 
 ## RESULT
